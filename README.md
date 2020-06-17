@@ -6,8 +6,9 @@ Test again
 
 ## demo for stardog
 
-Test 
+Test
 
 test again
 
-### Typo 
+### Typo
+
