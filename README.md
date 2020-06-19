@@ -1,56 +1,26 @@
 # GitBookDemo
 
-Starting
+### Rotate private key
 
-## This is a title
+{% hint style="info" %}
+#### Authentication
 
-This is a test
+Rotate key requires [Basic authentication](https://docs.exponea.com/reference-link/basic-authentication) with public/private key pair.
+{% endhint %}
 
 {% tabs %}
-{% tab title="ruby" %}
+{% tab title="Ruby" %}
 
 {% endtab %}
 
-{% tab title="Javascript" %}
+{% tab title="JS" %}
 {% code title="index.js" %}
 ```javascript
 let test = "test"
 ```
 {% endcode %}
-
-Thowdjwodjwod
 {% endtab %}
 {% endtabs %}
 
-{% api-method method="get" host="" path="" %}
-{% api-method-summary %}
 
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
