@@ -1,5 +1,4 @@
 # Table of contents
 
-* [GitBookDemo](README.md)
-* [test](test.md)
+* [Initial page](README.md)
 
