@@ -2,6 +2,8 @@
 
 ## Update Initial Set Up
 
+### Heading 3
+
 * Take a tour of the application.
 * Set up a new project in the Firebase console.
 * Take a tour of the Firebase console.
