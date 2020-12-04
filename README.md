@@ -1,6 +1,6 @@
 # Firebase
 
-## Initial Set Up
+## Update Initial Set Up
 
 * Take a tour of the application.
 * Set up a new project in the Firebase console.
